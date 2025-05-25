@@ -28,6 +28,28 @@ Rather than just modeling population, productivity, or immigration, it invites a
 
 ---
 
+## Human–Civilization Balance Radar
+
+This radar chart visualizes the five key structural axes that support civilization continuity and adaptive AI-human coexistence:
+
+- Demographic Gap Pressure
+- Immigration Offset Capacity
+- Hybrid Intelligence Potential
+- Reproductive Strategy Balance
+- Robot–Human Labor Integration
+
+![Human–Civilization Balance Radar](../assets/images/human_civilization_balance_radar.png)
+
+
+## Philosophical Flowchart Companion
+
+This philosophical flowchart serves as a cognitive decision tool:
+Should humanity intervene or allow civilization to evolve on its own?
+
+It acts as a counterpart to the radar chart, helping guide meta-level interventions:
+
+![Philosophical Flowchart](../assets/images/philosophical.png)
+
 ## Final Reflection
 
 This module does not end with answers, but with a mirror.
