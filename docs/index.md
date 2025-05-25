@@ -24,14 +24,12 @@ Rather than just modeling population, productivity, or immigration, it invites a
 
 ### Explore Module Axes (GitHub Pages View)
 
-<ul>
-<li><a href="modules/DGP.html">DGP: Demographic Gap Pressure</a></li>
-<li><a href="modules/IOC.html">IOC: Immigration Offset Capacity</a></li>
-<li><a href="modules/GHI.html">GHI: Genetic Hybrid Intelligence</a></li>
-<li><a href="modules/RSS.html">RSS: Reproduction Strategy Simulation</a></li>
-<li><a href="modules/RBL.html">RBL: Robot-Based Labor Integration</a></li>
-<li><a href="modules/HEDA.html">HEDA: Human–Environment Demographic Adaptation</a></li>
-</ul>
+- [DGP: Demographic Gap Pressure](modules/DGP.html)
+- [IOC: Immigration Offset Capacity](modules/IOC.html)
+- [GHI: Genetic Hybrid Intelligence](modules/GHI.html)
+- [RSS: Reproduction Strategy Simulation](modules/RSS.html)
+- [RBL: Robot-Based Labor Integration](modules/RBL.html)
+- [HEDA: Human–Environment Demographic Adaptation](modules/HEDA.html)
 
 ---
 
@@ -52,7 +50,7 @@ This radar chart visualizes the five key structural axes that support civilizati
 - Reproductive Strategy Balance
 - Robot–Human Labor Integration
 
-<img src="./assets/images/human_civilization_balance_radar.png" alt="Radar Chart" style="width:70%;">
+<img src="assets/images/human_civilization_balance_radar.png" alt="Radar Chart" style="width:70%;">
 
 
 ## Philosophical Flowchart Companion
@@ -62,7 +60,7 @@ Should humanity intervene or allow civilization to evolve on its own?
 
 It acts as a counterpart to the radar chart, helping guide meta-level interventions:
 
-<img src="./assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:45%;">
+<img src="assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:45%;">
 
 ## Final Reflection
 
