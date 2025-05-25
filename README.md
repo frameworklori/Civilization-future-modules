@@ -1,3 +1,9 @@
+---
+layout: default
+title: DGP Module
+permalink: /modules/DGP.html
+---
+
 # HEDA Module: Human–Environment Demographic Adaptation
 
 This module explores the equilibrium between human civilization structures and technological integration in the context of demographic shifts, reproductive adaptation, and robotic supplementation.
