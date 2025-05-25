@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: DGP Module
+permalink: /modules/DGP.html
+---
 
 **LORI-HEDA: Human-Equilibrium Demographic Architecture**
 
