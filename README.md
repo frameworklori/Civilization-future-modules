@@ -58,5 +58,9 @@ We measure how many humans a robot can replace.
 We model how automation can sustain an aging world.  
 We reflect on how humanity must redefine contribution, meaning, and continuity.
 
+**Governance Notice:**
+This repository is governed by the LORI Ethical Protocol. Any unauthorized modification or derivative use is strictly prohibited. For collaboration, please submit a formal request or Pull Request for review.
+
+
 
 
