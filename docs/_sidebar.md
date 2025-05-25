@@ -1,8 +1,9 @@
-* [Home](index.html)
+- **Explore Module Axes**
+- [DGP: Demographic Gap Pressure](modules/DGP.md)
+- [IOC: Immigration Offset Capacity](modules/IOC.md)
+- [GHI: Genetic Hybrid Intelligence](modules/GHI.md)
+- [RSS: Reproduction Strategy Simulation](modules/RSS.md)
+- [RBL: Robot-Based Labor Integration](modules/RBL.md)
+- [HEDA: Human–Environment Demographic Adaptation](HEDA.md)
 
-* Modules
-* [DGP: Demographic Gap Pressure](modules/DGP.html)
-* [IOC: Immigration Offset Capacity](modules/IOC.html)
-* [GHI: Genetic Hybrid Intelligence](modules/GHI.html)
-* [RSS: Reproduction Strategy Simulation](modules/RSS.html)
-* [RBL: Robot-Based Labor Integration](modules/RBL.html)
+- [Human–Civilization Balance Radar](final_paradox.md)
