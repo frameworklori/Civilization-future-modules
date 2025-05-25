@@ -64,3 +64,7 @@ Establish projections of how labor will be distributed, and the thresholds at wh
 > Robot creation is not inherently harmful—unchecked replacement is.  
 > Let productivity enhance dignity, not erase it.
 
+**Governance Notice:**
+This repository is governed by the LORI Ethical Protocol. Any unauthorized modification or derivative use is strictly prohibited. For collaboration, please submit a formal request or Pull Request for review.
+
+
