@@ -1,3 +1,9 @@
+---
+layout: default
+title: RBL Module
+permalink: /modules/RBL.html
+---
+
 # RBL: Robot-Based Labor Integration
 
 ## Overview
