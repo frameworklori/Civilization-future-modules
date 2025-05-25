@@ -48,7 +48,7 @@ Should humanity intervene or allow civilization to evolve on its own?
 
 It acts as a counterpart to the radar chart, helping guide meta-level interventions:
 
-<img src="./assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:35%;">
+<img src="./assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:45%;">
 
 ## Final Reflection
 
