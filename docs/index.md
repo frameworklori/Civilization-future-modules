@@ -38,7 +38,7 @@ This radar chart visualizes the five key structural axes that support civilizati
 - Reproductive Strategy Balance
 - Robot–Human Labor Integration
 
-<img src="../assets/images/human_civilization_balance_radar.png" alt="Radar Chart" style="width:70%;">
+<img src="./assets/images/human_civilization_balance_radar.png" alt="Radar Chart" style="width:70%;">
 
 
 ## Philosophical Flowchart Companion
@@ -48,7 +48,7 @@ Should humanity intervene or allow civilization to evolve on its own?
 
 It acts as a counterpart to the radar chart, helping guide meta-level interventions:
 
-<img src="../assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:70%;">
+<img src="./assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:70%;">
 
 ## Final Reflection
 
