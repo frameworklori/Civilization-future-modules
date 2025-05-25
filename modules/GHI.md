@@ -1,3 +1,9 @@
+---
+layout: default
+title: GHI Module
+permalink: /modules/GHI.html
+---
+
 # GHI: Genetic Hybrid Intelligence
 
 ## Overview
