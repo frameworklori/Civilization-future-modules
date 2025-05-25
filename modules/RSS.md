@@ -1,3 +1,9 @@
+---
+layout: default
+title: RSS Module
+permalink: /modules/RSS.html
+---
+
 # RSS: Reproduction Strategy Simulation
 
 ## Overview
