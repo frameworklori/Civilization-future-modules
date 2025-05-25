@@ -18,13 +18,20 @@ Rather than just modeling population, productivity, or immigration, it invites a
 - **RSS** – Reproduction Strategy Simulation  
 - **RBL** – Robot-Based Labor Integration  
 
-## Explore Module Axes
+### Explore Module Axes (GitHub Pages View)
 
-- [DGP: Demographic Gap Pressure](../modules/DGP.md)
-- [IOC: Immigration Offset Capacity](../modules/IOC.md)
-- [GHI: Genetic Hybrid Intelligence](../modules/GHI.md)
-- [RSS: Reproduction Strategy Simulation](../modules/RSS.md)
-- [RBL: Robot-Based Labor Integration](../modules/RBL.md)
+- [DGP: Demographic Gap Pressure](https://frameworklori.github.io/civilization-future-modules/docs/modules/DGP.html)
+- [IOC: Immigration Offset Capacity](https://frameworklori.github.io/civilization-future-modules/docs/modules/IOC.html)
+- [GHI: Genetic Hybrid Intelligence](https://frameworklori.github.io/civilization-future-modules/docs/modules/GHI.html)
+- [RSS: Reproduction Strategy Simulation](https://frameworklori.github.io/civilization-future-modules/docs/modules/RSS.html)
+- [RBL: Robot-Based Labor Integration](https://frameworklori.github.io/civilization-future-modules/docs/modules/RBL.html)
+
+---
+
+### HEDA Overview
+
+- [HEDA: Human–Environment Demographic Adaptation](https://frameworklori.github.io/civilization-future-modules/docs/modules/HEDA.html)
+
 
 ---
 
