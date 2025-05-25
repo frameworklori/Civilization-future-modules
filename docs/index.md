@@ -20,11 +20,14 @@ Rather than just modeling population, productivity, or immigration, it invites a
 
 ### Explore Module Axes (GitHub Pages View)
 
-- [DGP: Demographic Gap Pressure](https://frameworklori.github.io/civilization-future-modules/docs/modules/DGP.html)
-- [IOC: Immigration Offset Capacity](https://frameworklori.github.io/civilization-future-modules/docs/modules/IOC.html)
-- [GHI: Genetic Hybrid Intelligence](https://frameworklori.github.io/civilization-future-modules/docs/modules/GHI.html)
-- [RSS: Reproduction Strategy Simulation](https://frameworklori.github.io/civilization-future-modules/docs/modules/RSS.html)
-- [RBL: Robot-Based Labor Integration](https://frameworklori.github.io/civilization-future-modules/docs/modules/RBL.html)
+<ul>
+<li><a href="docs/modules/DGP.html">DGP: Demographic Gap Pressure</a></li>
+<li><a href="docs/modules/IOC.html">IOC: Immigration Offset Capacity</a></li>
+<li><a href="docs/modules/GHI.html">GHI: Genetic Hybrid Intelligence</a></li>
+<li><a href="docs/modules/RSS.html">RSS: Reproduction Strategy Simulation</a></li>
+<li><a href="docs/modules/RBL.html">RBL: Robot-Based Labor Integration</a></li>
+<li><a href="docs/modules/HEDA.html">HEDA: Human–Environment Demographic Adaptation</a></li>
+</ul>
 
 ---
 
