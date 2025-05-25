@@ -24,3 +24,9 @@ This model ends not with a solution, but with a mirror.
 
 
 [→ Read the Final Paradox](docs/final_paradox.md)
+
+**Governance Notice:**
+This repository is governed by the LORI Ethical Protocol. Any unauthorized modification or derivative use is strictly prohibited. For collaboration, please submit a formal request or Pull Request for review.
+
+
+
