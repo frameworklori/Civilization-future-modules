@@ -4,6 +4,14 @@
 
 This module models the balance between aging populations, immigration offset, racial integration, reproductive strategy, and robot-based labor supplementation. It aims to simulate the socio-economic and existential strain posed by demographic collapse, technological substitution, and the philosophical weight of post-human labor models.
 
+## Module Overview
+
+- **DGP** – Demographic Gap Pressure  
+- **IOC** – Immigration Offset Capacity  
+- **GHI** – Genetic Hybrid Intelligence (Mixed Lineage Adaptability)  
+- **RSS** – Reproduction Strategy Simulation  
+- **RBL** – Robot-Based Labor Integration  
+
 ## Module Axes
 
 1. **DGP**: Demographic Gap Pressure Index  
