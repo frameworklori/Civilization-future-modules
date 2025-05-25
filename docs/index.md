@@ -1,4 +1,4 @@
-# Civilization Future Modules
+
 
 **LORI-HEDA: Human-Equilibrium Demographic Architecture**
 
