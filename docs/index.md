@@ -7,7 +7,7 @@
 - [GHI: Genetic Hybrid Intelligence](modules/GHI.html)
 - [RSS: Reproduction Strategy Simulation](modules/RSS.html)
 - [RBL: Robot-Based Labor Integration](modules/RBL.html)
-- [HEDA: Human–Environment Demographic Adaptation](HEDA.md)
+- [HEDA: Human–Environment Demographic Adaptation](modules/HEDA.html)
 
 ---
 
