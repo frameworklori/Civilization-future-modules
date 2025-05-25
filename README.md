@@ -1,3 +1,4 @@
+
 # LORI-HEDA v1.0
 **Human-Equilibrium Demographic Architecture**
 
@@ -20,5 +21,8 @@ To provide predictive insight and moral reflection for governments, global organ
 ## Final Reflection
 
 This model ends not with a solution, but with a mirror.
+
+[→ Read the Final Paradox](docs/final_paradox.md)
+
 
 [→ Read the Final Paradox](docs/final_paradox.md)
