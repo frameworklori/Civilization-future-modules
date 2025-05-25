@@ -21,12 +21,12 @@ Rather than just modeling population, productivity, or immigration, it invites a
 ### Explore Module Axes (GitHub Pages View)
 
 <ul>
-<li><a href="docs/modules/DGP.html">DGP: Demographic Gap Pressure</a></li>
-<li><a href="docs/modules/IOC.html">IOC: Immigration Offset Capacity</a></li>
-<li><a href="docs/modules/GHI.html">GHI: Genetic Hybrid Intelligence</a></li>
-<li><a href="docs/modules/RSS.html">RSS: Reproduction Strategy Simulation</a></li>
-<li><a href="docs/modules/RBL.html">RBL: Robot-Based Labor Integration</a></li>
-<li><a href="docs/modules/HEDA.html">HEDA: Human–Environment Demographic Adaptation</a></li>
+<li><a href="modules/DGP.html">DGP: Demographic Gap Pressure</a></li>
+<li><a href="modules/IOC.html">IOC: Immigration Offset Capacity</a></li>
+<li><a href="modules/GHI.html">GHI: Genetic Hybrid Intelligence</a></li>
+<li><a href="modules/RSS.html">RSS: Reproduction Strategy Simulation</a></li>
+<li><a href="modules/RBL.html">RBL: Robot-Based Labor Integration</a></li>
+<li><a href="modules/HEDA.html">HEDA: Human–Environment Demographic Adaptation</a></li>
 </ul>
 
 ---
