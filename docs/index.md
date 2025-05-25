@@ -38,7 +38,7 @@ This radar chart visualizes the five key structural axes that support civilizati
 - Reproductive Strategy Balance
 - Robot–Human Labor Integration
 
-![Human–Civilization Balance Radar](../assets/images/human_civilization_balance_radar.png)
+![Human–Civilization Balance Radar](./assets/images/human_civilization_balance_radar.png)
 
 
 ## Philosophical Flowchart Companion
