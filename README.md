@@ -22,7 +22,5 @@ To provide predictive insight and moral reflection for governments, global organ
 
 This model ends not with a solution, but with a mirror.
 
-[→ Read the Final Paradox](docs/final_paradox.md)
-
 
 [→ Read the Final Paradox](docs/final_paradox.md)
