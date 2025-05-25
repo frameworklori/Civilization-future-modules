@@ -1,3 +1,9 @@
+---
+layout: default
+title: DGP Module
+permalink: /modules/DGP.html
+---
+
 # DGP: Demographic Gap Pressure
 
 ## Overview
