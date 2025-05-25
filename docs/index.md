@@ -10,14 +10,6 @@ Rather than just modeling population, productivity, or immigration, it invites a
 
 ---
 
-## Explore Module Axes
-
-- [DGP: Demographic Gap Pressure](../modules/DGP.md)
-- [IOC: Immigration Offset Capacity](../modules/IOC.md)
-- [GHI: Genetic Hybrid Intelligence](../modules/GHI.md)
-- [RSS: Reproduction Strategy Simulation](../modules/RSS.md)
-- [RBL: Robot-Based Labor Integration](../modules/RBL.md)
-
 ## Module Overview
 
 - **DGP** – Demographic Gap Pressure  
@@ -25,6 +17,14 @@ Rather than just modeling population, productivity, or immigration, it invites a
 - **GHI** – Genetic Hybrid Intelligence (Mixed Lineage Adaptability)  
 - **RSS** – Reproduction Strategy Simulation  
 - **RBL** – Robot-Based Labor Integration  
+
+## Explore Module Axes
+
+- [DGP: Demographic Gap Pressure](../modules/DGP.md)
+- [IOC: Immigration Offset Capacity](../modules/IOC.md)
+- [GHI: Genetic Hybrid Intelligence](../modules/GHI.md)
+- [RSS: Reproduction Strategy Simulation](../modules/RSS.md)
+- [RBL: Robot-Based Labor Integration](../modules/RBL.md)
 
 ---
 
