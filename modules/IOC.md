@@ -1,3 +1,9 @@
+---
+layout: default
+title: IOC Module
+permalink: /modules/IOC.html
+---
+
 # IOC: Immigration Offset Capacity
 
 ## Overview
