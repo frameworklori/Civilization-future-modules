@@ -7,5 +7,4 @@ It focuses on:
 - Neural plasticity advantages
 - Innovation in multi-heritage populations
 
-![Hybrid Intelligence](assets/images/philosophical.png)
-
+<img src="assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:45%;">
