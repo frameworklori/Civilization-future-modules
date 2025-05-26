@@ -7,4 +7,4 @@ It covers:
 - Human-robot task division
 - Resilience against economic shocks
 
-![Robot Labor](../assets/images/philosophical.png)
+<img src="assets/images/philosophical.png" alt="Philosophical Flowchart" style="width:45%;">
